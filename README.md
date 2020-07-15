@@ -6,4 +6,4 @@
 - 📫 How to reach me: [@alanaktion](https://twitter.com/alanaktion)
 - 🙃 Pronouns: he/him/they/them
 
-[randos](https://randos.online/u/Alanaktion/next)
+[find randos](https://randos.online/u/Alanaktion/next)
