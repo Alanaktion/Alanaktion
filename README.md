@@ -8,6 +8,4 @@
 
 [find randos](https://randos.online/u/Alanaktion/next)
 
----
-
-AI policy: I'll accept AI-written PRs after manual review, and do use AI myself for some work. Anything that makes it to `main` or a release in my repos has been human reviewed unless explicitly stated otherwise.
+<sub>AI policy: I'll accept AI-written PRs after manual review, and do use AI myself for some work. Anything that makes it to `main` or a release in my repos has been human reviewed unless explicitly stated otherwise.</sub>
